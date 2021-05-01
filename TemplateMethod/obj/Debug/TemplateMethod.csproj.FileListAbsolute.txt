@@ -1,0 +1,6 @@
+C:\Users\90534\source\repos\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+C:\Users\90534\source\repos\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.exe
+C:\Users\90534\source\repos\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Users\90534\source\repos\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\90534\source\repos\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.exe
+C:\Users\90534\source\repos\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.pdb

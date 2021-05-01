@@ -1,0 +1,7 @@
+C:\Users\90534\source\repos\DesignPatterns\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\90534\source\repos\DesignPatterns\Strategy\bin\Debug\Strategy.exe
+C:\Users\90534\source\repos\DesignPatterns\Strategy\bin\Debug\Strategy.pdb
+C:\Users\90534\source\repos\DesignPatterns\Strategy\obj\Debug\Strategy.csprojAssemblyReference.cache
+C:\Users\90534\source\repos\DesignPatterns\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\90534\source\repos\DesignPatterns\Strategy\obj\Debug\Strategy.exe
+C:\Users\90534\source\repos\DesignPatterns\Strategy\obj\Debug\Strategy.pdb

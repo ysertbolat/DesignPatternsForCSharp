@@ -1,0 +1,7 @@
+C:\Users\90534\source\repos\DesignPatterns\Facade\bin\Debug\Facade.exe.config
+C:\Users\90534\source\repos\DesignPatterns\Facade\bin\Debug\Facade.exe
+C:\Users\90534\source\repos\DesignPatterns\Facade\bin\Debug\Facade.pdb
+C:\Users\90534\source\repos\DesignPatterns\Facade\obj\Debug\Facade.csprojAssemblyReference.cache
+C:\Users\90534\source\repos\DesignPatterns\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\90534\source\repos\DesignPatterns\Facade\obj\Debug\Facade.exe
+C:\Users\90534\source\repos\DesignPatterns\Facade\obj\Debug\Facade.pdb
